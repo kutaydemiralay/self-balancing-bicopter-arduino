@@ -23,4 +23,4 @@ Deployment uses the **Simulink Support Package for Arduino Hardware**. MATLAB sc
 - USB data cable
 - Hardware (miscellaneous)
 
-![Bicopter prototype](docs/img/picture.jpg)
+![Bicopter prototype](docs/img/Bicopterpic.jpg)

@@ -26,6 +26,11 @@ Deployment uses the **Simulink Support Package for Arduino Hardware**. MATLAB sc
 ![Bicopter prototype](pictures/BicopterPic.jpg)
 *Figure 1 — Bicopter prototype on test stand (Nano 33 IoT + custom PCB).*
 
+![Bicopter demo](pictures/TrackPath.jpg)
+
+*Figure2 — Time θ(t) in radians we want bicopter to follow with Closed Loop MPC controller.*
+
+
 ![Bicopter demo](pictures/Demo.gif)
 
 *Figure3 — Self-balancing bicopter (MPC) tracking θ(t).*

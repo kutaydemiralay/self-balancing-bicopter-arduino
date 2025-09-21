@@ -23,19 +23,23 @@ Deployment uses the **Simulink Support Package for Arduino Hardware**. MATLAB sc
 - USB data cable
 - Hardware (miscellaneous)
 
+![Bicopter prototype](pictures/SystemID.png)
+*Figure 1 — System identification of the bicopter: applying test inputs to fit a linear state-space model for MPC design and subsequent closed-loop control.*
+
 ![Bicopter prototype](pictures/BicopterPic.jpg)
-*Figure 1 — Bicopter prototype on test stand (Nano 33 IoT + custom PCB).*
+*Figure 2 — Bicopter prototype on test stand (Nano 33 IoT + custom PCB).*
+
 
 ![Bicopter Tracking Path](pictures/TrackPath.jpg)
 
-*Figure2 — Time vs. θ(t) in radians we want bicopter to follow with Closed Loop MPC controller.*
+*Figure3 — Time vs. θ(t) in radians we want bicopter to follow with Closed Loop MPC controller.*
 
 
 ![Bicopter demo](pictures/Demo.gif)
 
-*Figure3 — Self-balancing bicopter (MPC) tracking θ(t).*
+*Figure4 — Self-balancing bicopter (MPC) tracking θ(t).*
 
 
 ![Referance vs Measured Path](pictures/RefvsMeasured.jpg)
 
-*Figure4 — Reference vs. Measured Path.*
+*Figure5 — Reference vs. Measured Path.*

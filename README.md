@@ -28,9 +28,14 @@ Deployment uses the **Simulink Support Package for Arduino Hardware**. MATLAB sc
 
 ![Bicopter Tracking Path](pictures/TrackPath.jpg)
 
-*Figure2 — Time θ(t) in radians we want bicopter to follow with Closed Loop MPC controller.*
+*Figure2 — Time vs. θ(t) in radians we want bicopter to follow with Closed Loop MPC controller.*
 
 
 ![Bicopter demo](pictures/Demo.gif)
 
 *Figure3 — Self-balancing bicopter (MPC) tracking θ(t).*
+
+
+![Referance vs Measured Path](pictures/RefvsMeasured.jpg)
+
+*Figure4 — Reference vs. Measured Path.*
